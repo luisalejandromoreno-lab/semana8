@@ -1,0 +1,2 @@
+encuetro codespace este es clave ya que permite identificar con que sistema operativo se esta trabajando aparte de el codigo 
+podemos ver el espacio real donde estamos trabajando en el trabajo desde codes space
